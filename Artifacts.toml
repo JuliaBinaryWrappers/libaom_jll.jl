@@ -1,288 +1,288 @@
 [[libaom]]
 arch = "aarch64"
-git-tree-sha1 = "c325a23bc1f6521474cef5f634f18c8ab311bb02"
+git-tree-sha1 = "8aeda74365ddd4a5b4b857356622b5c7612a3f2e"
 os = "macos"
 
     [[libaom.download]]
-    sha256 = "4ccbe4bc1a762a215842f209d97a30a0cd00aca9fda732af0eafdc099a8be857"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "da792db5fbfb9a1f3b7ad8982c518b32c98cbc9619fb30718120a2dbc1b2f658"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.aarch64-apple-darwin.tar.gz"
 [[libaom]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9e10b849b94d507c932f956450248ca633a0f171"
+git-tree-sha1 = "f891200a6d253b5f88d99e7005cc8e82aa317b3b"
 libc = "glibc"
 os = "linux"
 
     [[libaom.download]]
-    sha256 = "afb01b2f1919b45eeb263c531690587f20495c8fca052495e098708aacc342dc"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "2068bb05ddd5f1dd8a6e18d9d1e0159f3bdb67bd8c56318a828016e8f74d1697"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[libaom]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9254355e649b9f62a8847bb1e9320ca328bf3763"
+git-tree-sha1 = "70c22586759ed4c210a0f2434c50958aad2825d1"
 libc = "glibc"
 os = "linux"
 
     [[libaom.download]]
-    sha256 = "af66176ec07142f85dac6c91c2b43a8ac2c8f04c1e6b6aca4246c6f64d84da09"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "0273e20716de86fe4c29bc2097ed0538999b5350ab735f09d4a7ebab017b4045"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[libaom]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "274e1a6d7e3313696c83f4c934e402da04266b04"
+git-tree-sha1 = "545806995d512eff8dee85d18d680546d097c311"
 libc = "musl"
 os = "linux"
 
     [[libaom.download]]
-    sha256 = "b5b5cf59247207be8239ba1e7e6e19277b41b7d8f5f45bc4180372ea2c162f1b"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "0a1b590b852786bea9c51b934d916ff3e43bdf4728335c5a9e0adbcf010a0009"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.aarch64-linux-musl-cxx03.tar.gz"
 [[libaom]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5faa4ee41b0e17abd6d0983db2f8742e28bd5016"
+git-tree-sha1 = "676e52a86aba331044c3a4dcffd444ee0bbc251b"
 libc = "musl"
 os = "linux"
 
     [[libaom.download]]
-    sha256 = "1e4486742b8c6507b24e564db7020d50bb734ed8c4b7c21261061af45956a992"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "aba654d5c9e0e73ba618ba73dfd4123dce1e9fc1b9d79d8af8bcaefbabd0f48b"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.aarch64-linux-musl-cxx11.tar.gz"
 [[libaom]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4c3ff469f83963c4adbbdb0bc2395c0b3354de12"
+git-tree-sha1 = "1b516cdeadcea66e5c41c23548a9419831349fcc"
 libc = "glibc"
 os = "linux"
 
     [[libaom.download]]
-    sha256 = "e931b99a6522c3b58e2dbdbc662ad68f2c7cd3409818a593fee7b02379af9977"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "a6eafdea84bcff7a35804cb7af38ff6ba77467e02531802288df0ec77d87ac99"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[libaom]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8265adb202600009b600d3f07be0c9ec07c9d415"
+git-tree-sha1 = "0ed5a8f9af8a0ccbaa84eab609603717ce670acf"
 libc = "glibc"
 os = "linux"
 
     [[libaom.download]]
-    sha256 = "cfe490ee2171bd22fcbd4c603e8f449008f05669e42f86706cdc4fe16fd24cde"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "a1a88482b4904e946a22cfa829804e569dea568cb580999eb4eaf910e0a74f2b"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[libaom]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3f26788348966178cff8706e80bdc9f49340b821"
+git-tree-sha1 = "f53f0e731a338627545757d55c65031613661ec9"
 libc = "musl"
 os = "linux"
 
     [[libaom.download]]
-    sha256 = "3bb20194364abd602728551403485f104be80241b5daef8c943699b1fefebac9"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "241f0e10f64f990b743a39fb78622cacaf683f1c2710fe3eca8bcccff39e5d81"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[libaom]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c544d6c601264656e5eab018b2c45a077d9e5e0f"
+git-tree-sha1 = "45ef158512ec70ccdaa80d4a2b3e00f2a3bb1523"
 libc = "musl"
 os = "linux"
 
     [[libaom.download]]
-    sha256 = "395ca5b218c289063d5cfb6a61a312b7463ee17ceca17a3601b98229bb030817"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "024b50e9d5f52d3b21de243db39d99b74872887a6dae5b12c4d145dbe2e4b05e"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[libaom]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "42a250dc8530b415fe6eb7303ee57e5edbf0f4d8"
+git-tree-sha1 = "b853ce8dff14b18d8df4a4e15d959666690188d9"
 libc = "glibc"
 os = "linux"
 
     [[libaom.download]]
-    sha256 = "b28ed0fa126568488fb76eb394756bdd36efdac17bd2f7f6307c57bd923892a0"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "460215a96ee69450488f4163b802135a37534aa97ad47bd5c0d0a21861aba608"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[libaom]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "755899f1da4f42645bb1d7c6dda90f91b2330e2b"
+git-tree-sha1 = "2f7ba8e81e83d6b8e424b93b59cce9f9a435d3ef"
 libc = "glibc"
 os = "linux"
 
     [[libaom.download]]
-    sha256 = "1ca78600be3a860589e76930209e987d29bea1baa76b14b9105facc883fe7f36"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "f0c100b42c8e90e8b9c52bc90c572dd6981dfc8930498ef376622ff9cae6734a"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[libaom]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "55677432ab565b4bc9fedad9ec02dbb1eac1fd3e"
+git-tree-sha1 = "81fe7e55cf0d5a81cc37be2cd9c2bb93ec07eb8e"
 libc = "musl"
 os = "linux"
 
     [[libaom.download]]
-    sha256 = "c2b14bdd91171c71af0654caad2c440320fe37202d35bb02d6d122f5f169f13c"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "69fdfc57e47e7fadb5ba1590e56767aa79ca5aecf553599d221cd5c71adf7002"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[libaom]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "257b7e549ae68e0518b01f880e6372960bb2594b"
+git-tree-sha1 = "fb764f7afe1bc6dc2006497d43e7417a9ff57b4e"
 libc = "musl"
 os = "linux"
 
     [[libaom.download]]
-    sha256 = "2d420ba56a860dafe72e0c2b566906cb265fd3ee59b6c54ba1d8568ffa550a29"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "08996dfe6854a94f3ff552e37c0de5c9921c0a3b22aa7fd6a534cc042898335f"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[libaom]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0975ee86721a08a78db28ae8e02fcb0025c8847a"
+git-tree-sha1 = "d28cedacbc1ab67fa24e6f92cc403e96fac199f9"
 libc = "glibc"
 os = "linux"
 
     [[libaom.download]]
-    sha256 = "19889d25eab5d60fc0497d8363141b2f98b4cf7a45328585fd7baae0d474cae2"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "973e4e9c496bcf6d09059729d6eca532cbaabde3070d8169b34e64720cc0a4a7"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.i686-linux-gnu-cxx03.tar.gz"
 [[libaom]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8635dc27ad63a56cd4339c0a5db57c7fa741bf5f"
+git-tree-sha1 = "14b68a3e7035e708f71090c10df666567351b07d"
 libc = "glibc"
 os = "linux"
 
     [[libaom.download]]
-    sha256 = "1b73b4ad51e1dad89c59eacb1634fc7412ad49ba261bff6b93c1e6cccfa7402b"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "c43188cf20968b43e3c9d9abfb862b921d1738e9c3f9e2e7aa5f197ec92bfe8a"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.i686-linux-gnu-cxx11.tar.gz"
 [[libaom]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "30fa7a901546686d9806595a0bdf5e0b1dd8cb14"
+git-tree-sha1 = "5e70ef6d230bbacf5f32ac16050b999ec91d251c"
 libc = "musl"
 os = "linux"
 
     [[libaom.download]]
-    sha256 = "607a20df541cae7d8591bc38e1e40d07cbd8f8092f5ac6035ebc0f3bd6279be2"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "83d8f3bf375eaca6427244c74fb2b1405312923dcc2ce4b1db20c5a5fbc59da2"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.i686-linux-musl-cxx03.tar.gz"
 [[libaom]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0de85a5aab1072a55fdecd8d1c5fdc3349669d06"
+git-tree-sha1 = "2edabb6abe6cb413acd66585f4f61361e0243c0e"
 libc = "musl"
 os = "linux"
 
     [[libaom.download]]
-    sha256 = "8dadb41ecf7c52f671590f57657a58f22b9763aa0fa730c1bf9007eba3ec4995"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "d3f611d86ba5091e45bbb7a0741d95c7ae44e67a45550733bb5bb6c2a48419ef"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.i686-linux-musl-cxx11.tar.gz"
 [[libaom]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8c098d50272361638a186589615a48908cd72aeb"
+git-tree-sha1 = "973d1260d0b8182245a37ea570bd60c6bf884628"
 os = "windows"
 
     [[libaom.download]]
-    sha256 = "2be0105008de6c2e63eac17dfac4e6e219a55d8e0812f2c32056a15447d25a87"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "b3d95bfc70307a8d6103bd75c164b71f2f516416289b9ccb6c62554b412ea96f"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.i686-w64-mingw32-cxx03.tar.gz"
 [[libaom]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5b9678f9021ce4e2082f6944bd57f68e5aca7c61"
+git-tree-sha1 = "f16b37a453a14bb033e3c7c80e17d4796baa1e23"
 os = "windows"
 
     [[libaom.download]]
-    sha256 = "f573c2b4132c89e3b5aba8295e333fa5b57cc8667bdfe4217d9e240111bf3c8e"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "06a348048dab2f9ecee2a09949fc8656df3a2b9a346d2ff2a67a7878f9e02c63"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.i686-w64-mingw32-cxx11.tar.gz"
 [[libaom]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4f150231d198b2d03f6a6d7a932054db4ab2ab7a"
+git-tree-sha1 = "340a25db553681ab95436ee621c0fc4e0d29a29a"
 libc = "glibc"
 os = "linux"
 
     [[libaom.download]]
-    sha256 = "4589c10f4935257a5f1c3886d0c302c88ff7aaff2dfb81f40e64252a13dd069a"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "505c5a077470e59c8ce02052b3292663703fd78090b5ebc852d384eccdd38cda"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[libaom]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9ed6be7aeeac2e6c8d0c90f9193db90b05a16661"
+git-tree-sha1 = "d27a06e418b3bd60d40b5db174d192c500400c25"
 libc = "glibc"
 os = "linux"
 
     [[libaom.download]]
-    sha256 = "de55c62f81bd36838b8e12a4fe111ac6754d387975c9388864efbb9e0db1af9d"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "6c934930e91750331c3af57e691e545338df1cf0d354ecb3550961e6b9123e63"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[libaom]]
 arch = "x86_64"
-git-tree-sha1 = "e82fc967ae7f655963b97d4565e3a93c74bd38fa"
+git-tree-sha1 = "ea0d780d1d257836385747da7db21967d7450bdc"
 os = "macos"
 
     [[libaom.download]]
-    sha256 = "216e77f7649b808688f00ef9a0566b91e9210f928eb399ff827c09e7b6c66a16"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "7545cd44c1c6f4ff5599a20831b3c569541fbafee8cc04c33433f766a78840d4"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.x86_64-apple-darwin.tar.gz"
 [[libaom]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "62923128032257e7e0f12352fdb8cff551ac9a90"
+git-tree-sha1 = "7e63a5ea0e16a5b64d2baa107c89ed916b210cef"
 libc = "glibc"
 os = "linux"
 
     [[libaom.download]]
-    sha256 = "e1b04d68a87f30ecd2c388e52f0ddaf91fa1383e0f51564cfd3b65647eb43b19"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "5408619c9bb4f650bd65d5f9d95514b7958debe582865e1c924d8f6416b80f76"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[libaom]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "595f9476b128877ab5bf73883ff6c8dc8dacfe66"
+git-tree-sha1 = "1cf7375e8ec1bbe1219934488737c12237ba2012"
 libc = "glibc"
 os = "linux"
 
     [[libaom.download]]
-    sha256 = "a3a9df2a3fdce42edb3d1f0692ca68f2da301b3c963641e6dd3de7f215f2b96a"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "d9412c2cbd779d203cc4daf2532a1da13c2ca3a962c411219e6b59a3c97bbec1"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[libaom]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "27717b177258c919207d3aaedd6aced12e40ffda"
+git-tree-sha1 = "c34ca1c950e7c091a99a1f7b6392889d463458fb"
 libc = "musl"
 os = "linux"
 
     [[libaom.download]]
-    sha256 = "c06af4dd5087eb007f93902479d29a9ca84a4bbd40a4992526df7dc853261326"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "185b6c171775c787c336c0d3615543ab1af9813a273c083f3f66fff513368dec"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.x86_64-linux-musl-cxx03.tar.gz"
 [[libaom]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "99d2e08acbedfe935ef93be853fbf1e054a342dc"
+git-tree-sha1 = "cb0ce10c840c29f025b2195e325e6ccce0f27b7a"
 libc = "musl"
 os = "linux"
 
     [[libaom.download]]
-    sha256 = "90f3361c0825630c2889ca4fe787ccd1a8397338a9267fe230eed83b6a31d1a1"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "13005ed6202f08e1d05a8751d36ea99a9a5158b8b515b437226f64691acccf90"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.x86_64-linux-musl-cxx11.tar.gz"
 [[libaom]]
 arch = "x86_64"
-git-tree-sha1 = "7d34f707ea096134c043a62c246bb6e1fe360f43"
+git-tree-sha1 = "8bcf93054d1a009ad7d0df92ec9554c15e4072af"
 os = "freebsd"
 
     [[libaom.download]]
-    sha256 = "c3832a086afcb42f2ca451f585bd701f97a32d13bc754b19bb06c61e59f2687f"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "dec3350e02dd5cf3497d0392b1f26df8b73e77981a02ed3f07fb31ee609f9a61"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.x86_64-unknown-freebsd.tar.gz"
 [[libaom]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7bed9d703cb9cf78615719160f2c27496c3c4543"
+git-tree-sha1 = "b22a16a5432a9c4d7a4dd628f919904514980c81"
 os = "windows"
 
     [[libaom.download]]
-    sha256 = "5aa9451ae617898d485acaa0c4b3fc1faf99ea3a3c58595ab65312f819851e93"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "7fedf196417a06471e5b48104febb10bb8006c21d20c699b8f7b38017d055d8c"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[libaom]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "160ce27d1af09edffbb7d9f1833f6d3bdefad491"
+git-tree-sha1 = "0750898c47cd86188d0a9fb7ca8ddf13967cc1b8"
 os = "windows"
 
     [[libaom.download]]
-    sha256 = "47ac5673397bbb036c0bc969444b1f2038208d9e77aa0eab1bacc6e27069754d"
-    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.4.0+0/libaom.v3.4.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "4bce9a90d25367835eeeac39e97faedbf84ef6137d1f924ed54123da287605c1"
+    url = "https://github.com/JuliaBinaryWrappers/libaom_jll.jl/releases/download/libaom-v3.9.0+0/libaom.v3.9.0.x86_64-w64-mingw32-cxx11.tar.gz"
