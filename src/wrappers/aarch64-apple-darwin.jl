@@ -9,7 +9,7 @@ function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libaom,
-        "lib/libaom.3.13.3.dylib",
+        "lib/libaom.3.14.1.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
